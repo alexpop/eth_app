@@ -1,0 +1,19 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "myproject",
+  "main": "gulpfile.js",
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-install": "^1.1.0",
+    "solc": "^0.4.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.0"
+  },
+  "scripts": {
+    "test": "ls"
+  }
+}
