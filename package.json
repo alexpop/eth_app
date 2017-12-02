@@ -6,8 +6,10 @@
   "author": "Me",
   "license": "MIT",
   "dependencies": {
+    "ganache-cli": "^6.0.3",
     "gulp-install": "^1.1.0",
-    "solc": "^0.4.4"
+    "solc": "^0.4.4",
+    "web3": "^1.0.0-beta.26"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
